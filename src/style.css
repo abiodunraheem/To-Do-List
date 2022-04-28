@@ -60,6 +60,7 @@ div ul li input {
   font-size: 18px;
   caret-color: auto;
   width: 90%;
+  height: 40px;
 }
 
 .input-text > input:focus {
