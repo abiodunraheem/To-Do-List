@@ -136,6 +136,6 @@ div ul li:last-child {
   padding: 1rem 1rem 0 1rem;
 }
 
-.vertical-dot {
-  color: grey;
+.edit-task ul li i {
+  color: red;
 }

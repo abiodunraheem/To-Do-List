@@ -8,7 +8,7 @@ function displayTask() {
             <ul>
                 <li class="tick" ><input id="${task.index}" type="checkbox"></li>
                 <li class"text-value" >${task.text}</li>
-                <li class="remove-btn" id="${task.index}"><i class="fa-solid fa-ellipsis-vertical fa-lg vertical-dot"></i></li>
+                <li class="remove-btn" id="${task.index}"><i class="fa fa-times" aria-hidden="true delete-task"></i></i></li>
             </ul>
             <i class="fa-solid fa-trash-can delete-icon"></i>
             <hr>
